@@ -44,6 +44,7 @@ dependencies {
     //compile "some.group:artifact:version
     compile 'edu.wpi.first.ntcore:ntcore-java:4.1.0'
     compile 'edu.wpi.first.wpiutil:wpiutil-java:3.2.0'
+    compile 'edu.wpi.first.ntcore:ntcore-jni:4.1.0-windowsx86'
 //    compile 'edu.wpi.first.ntcore:ntcore-java:2019.4.1-216-g0e3b0f3'
     //native(group = "edu.wpi.first.ntcore", name = "ntcore-jni", version = ntcoreVersion, classifierFunction = ::wpilibClassifier)
     // real examples
